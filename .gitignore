@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# Model exports / large artifacts
+export/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Env / secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
